@@ -44,9 +44,6 @@ DYOR is your AI-powered trading companion that:
   - RSI with smart market state interpretation
   - MACD trend strength quantification
   - Volume analysis vs 24h average
-  - ROC-based momentum signals
-  - Volatility trend analysis
-  - Bollinger Bands positioning
 
 Example Live Analysis:
 ```
