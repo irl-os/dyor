@@ -35,11 +35,34 @@ DYOR is your AI-powered trading companion that:
 
 ## 💡 Core Features
 
-### 1️⃣ Real-Time Market Analysis
-- 1-second price updates
-- AI-powered trend detection
-- Clear buy/sell signals
-- Risk alerts
+### 1️⃣ Advanced Realtime Quantitative Analysis
+- Live market analysis updated every 60 seconds
+- Multi-timeframe predictions 
+- AI-powered direction confidence scoring (0-100%)
+- Dynamic price range forecasting with support/resistance
+- Real-time technical indicators suite:
+  - RSI with smart market state interpretation
+  - MACD trend strength quantification
+  - Volume analysis vs 24h average
+  - ROC-based momentum signals
+  - Volatility trend analysis
+  - Bollinger Bands positioning
+
+Example Live Analysis:
+```
+=== Solana Direction Analysis (Updates: 60s) ===
+Current: $235.157
+
+15m Forecast: BEARISH (3.2% confidence)
+• Range: $234.84-$235.16
+• Key Levels: S:$234.86 | R:$235.12
+• Signals: Overbought RSI, Bullish MACD
+
+1h Forecast: BULLISH (61.9% confidence)
+• Range: $234.84-$236.12
+• Key Levels: S:$234.57 | R:$236.45
+• Signals: Moderate RSI, Strong MACD
+```
 
 ### 2️⃣ Position Monitoring
 - 24/7 position tracking
